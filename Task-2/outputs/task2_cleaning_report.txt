@@ -1,0 +1,21 @@
+Task 2 - Data Cleaning and Preprocessing
+
+Input file: Teen_Mental_Health_Dataset.csv
+Original shape: 1200 rows x 13 columns
+Cleaned shape: 1200 rows x 13 columns
+
+Cleaning steps:
+- Column names were standardized to lowercase with underscores.
+- Text values were stripped of extra spaces.
+- Numeric columns were converted to numeric type when possible.
+- Missing values were filled using median for numeric columns and mode for text columns.
+- Duplicate rows were removed.
+- Numeric columns that contained whole numbers were formatted as integers.
+
+Results:
+- Missing values before cleaning: 0
+- Missing values after cleaning: 0
+- Duplicate rows before cleaning: 0
+- Duplicate rows after cleaning: 0
+
+Cleaned dataset saved to: D:\DecodeLabs Internship\Task-2\outputs\cleaned_teen_mental_health_dataset.csv
