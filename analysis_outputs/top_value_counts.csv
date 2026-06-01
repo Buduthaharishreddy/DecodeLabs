@@ -1,0 +1,9 @@
+column,gender,count,platform_usage,social_interaction_level
+gender,male,615,,
+gender,female,585,,
+platform_usage,,411,Instagram,
+platform_usage,,398,TikTok,
+platform_usage,,391,Both,
+social_interaction_level,,416,,medium
+social_interaction_level,,415,,low
+social_interaction_level,,369,,high

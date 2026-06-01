@@ -1,0 +1,14 @@
+column,dtype
+age,int64
+gender,str
+daily_social_media_hours,float64
+platform_usage,str
+sleep_hours,float64
+screen_time_before_sleep,float64
+academic_performance,float64
+physical_activity,float64
+social_interaction_level,str
+stress_level,int64
+anxiety_level,int64
+addiction_level,int64
+depression_label,int64

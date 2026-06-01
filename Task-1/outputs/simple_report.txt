@@ -1,0 +1,45 @@
+Dataset: Teen_Mental_Health_Dataset.csv
+Rows,Columns: (1200, 13)
+
+Columns and types:
+- age: int64
+- gender: str
+- daily_social_media_hours: float64
+- platform_usage: str
+- sleep_hours: float64
+- screen_time_before_sleep: float64
+- academic_performance: float64
+- physical_activity: float64
+- social_interaction_level: str
+- stress_level: int64
+- anxiety_level: int64
+- addiction_level: int64
+- depression_label: int64
+
+Missing values (top):
+- None
+
+Top categorical values (sample):
+- gender:
+    - male: 615
+    - female: 585
+- platform_usage:
+    - Instagram: 411
+    - TikTok: 398
+    - Both: 391
+- social_interaction_level:
+    - medium: 416
+    - low: 415
+    - high: 369
+
+Numeric summary (first 10 columns if present):
+- age: count=1200, mean=15.928333333333333
+- daily_social_media_hours: count=1200, mean=4.536666666666667
+- sleep_hours: count=1200, mean=6.449416666666667
+- screen_time_before_sleep: count=1200, mean=1.740333333333333
+- academic_performance: count=1200, mean=2.9903833333333334
+- physical_activity: count=1200, mean=1.0145000000000002
+- stress_level: count=1200, mean=5.445833333333334
+- anxiety_level: count=1200, mean=5.636666666666667
+- addiction_level: count=1200, mean=5.565
+- depression_label: count=1200, mean=0.025833333333333333
