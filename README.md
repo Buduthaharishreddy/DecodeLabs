@@ -25,3 +25,33 @@ This repository contains the internship tasks for the teen mental health dataset
 pip install -r Task-2/requirements.txt
 python Task-2/task2_preprocessing.py
 ```
+
+## Task 3 - Exploratory Data Analysis (EDA)
+
+- [Task-3/README.md](Task-3/README.md)
+- [Task-3/task3_eda.py](Task-3/task3_eda.py)
+- [Task-3/requirements.txt](Task-3/requirements.txt)
+- [Task-3/data/cleaned_teen_mental_health_dataset.csv](Task-3/data/cleaned_teen_mental_health_dataset.csv)
+- [Task-3/outputs/task3_report.md](Task-3/outputs/task3_report.md)
+- [Task-3/outputs/task3_findings.md](Task-3/outputs/task3_findings.md)
+- [Task-3/outputs/basic_statistics.csv](Task-3/outputs/basic_statistics.csv)
+- [Task-3/outputs/numeric_statistics.csv](Task-3/outputs/numeric_statistics.csv)
+- [Task-3/outputs/trend_summary.csv](Task-3/outputs/trend_summary.csv)
+- [Task-3/outputs/outlier_summary.csv](Task-3/outputs/outlier_summary.csv)
+- [Task-3/outputs/correlation_matrix.csv](Task-3/outputs/correlation_matrix.csv)
+- [Task-3/outputs/correlation_heatmap.png](Task-3/outputs/correlation_heatmap.png)
+- [Task-3/outputs/outlier_boxplots.png](Task-3/outputs/outlier_boxplots.png)
+
+## What Task 3 does
+
+- Calculates basic statistics
+- Identifies trends and outliers
+- Summarizes findings
+- Saves CSV, markdown, and image outputs
+
+## Run Task 3
+
+```bash
+pip install -r Task-3/requirements.txt
+python Task-3/task3_eda.py
+```

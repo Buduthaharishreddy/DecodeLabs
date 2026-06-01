@@ -1,0 +1,4 @@
+platform_usage,age,daily_social_media_hours,sleep_hours,screen_time_before_sleep,academic_performance,physical_activity,stress_level,anxiety_level,addiction_level,depression_label
+Both,15.957,4.518,6.463,1.745,2.975,1.02,5.55,5.488,5.496,0.023
+Instagram,15.866,4.559,6.44,1.712,2.995,1.04,5.499,5.669,5.582,0.024
+TikTok,15.965,4.531,6.446,1.764,3.0,0.982,5.289,5.749,5.616,0.03

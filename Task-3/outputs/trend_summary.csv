@@ -1,0 +1,9 @@
+group_column,gender,age,daily_social_media_hours,sleep_hours,screen_time_before_sleep,academic_performance,physical_activity,stress_level,anxiety_level,addiction_level,depression_label,platform_usage,social_interaction_level
+gender,female,15.906,4.513,6.496,1.76,3.001,1.004,5.422,5.687,5.485,0.029,,
+gender,male,15.95,4.559,6.405,1.722,2.981,1.024,5.468,5.589,5.641,0.023,,
+platform_usage,,15.957,4.518,6.463,1.745,2.975,1.02,5.55,5.488,5.496,0.023,Both,
+platform_usage,,15.866,4.559,6.44,1.712,2.995,1.04,5.499,5.669,5.582,0.024,Instagram,
+platform_usage,,15.965,4.531,6.446,1.764,3.0,0.982,5.289,5.749,5.616,0.03,TikTok,
+social_interaction_level,,16.062,4.457,6.484,1.756,2.982,1.031,5.512,5.705,5.588,0.027,,high
+social_interaction_level,,15.971,4.54,6.462,1.727,2.989,1.001,5.349,5.525,5.467,0.022,,low
+social_interaction_level,,15.767,4.604,6.407,1.74,2.998,1.013,5.483,5.688,5.642,0.029,,medium
