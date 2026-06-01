@@ -82,3 +82,29 @@ python Task-3/task3_eda.py
 pip install -r Task-4/requirements.txt
 python Task-4/task4_visualization.py
 ```
+
+## Task 5 - Predictive Model or Insight Project
+
+- [Task-5/README.md](Task-5/README.md)
+- [Task-5/task5_predictive_model.py](Task-5/task5_predictive_model.py)
+- [Task-5/requirements.txt](Task-5/requirements.txt)
+- [Task-5/data/cleaned_teen_mental_health_dataset.csv](Task-5/data/cleaned_teen_mental_health_dataset.csv)
+- [Task-5/outputs/task5_model_report.md](Task-5/outputs/task5_model_report.md)
+- [Task-5/outputs/task5_model_metrics.csv](Task-5/outputs/task5_model_metrics.csv)
+- [Task-5/outputs/task5_confusion_matrix.png](Task-5/outputs/task5_confusion_matrix.png)
+- [Task-5/outputs/task5_roc_curve.png](Task-5/outputs/task5_roc_curve.png)
+- [Task-5/outputs/task5_top_drivers.png](Task-5/outputs/task5_top_drivers.png)
+
+## What Task 5 does
+
+- Trains a predictive classification model
+- Handles preprocessing automatically
+- Evaluates model performance
+- Saves charts, metrics, and the trained model
+
+## Run Task 5
+
+```bash
+pip install -r Task-5/requirements.txt
+python Task-5/task5_predictive_model.py
+```
