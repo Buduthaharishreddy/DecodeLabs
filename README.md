@@ -55,3 +55,30 @@ python Task-2/task2_preprocessing.py
 pip install -r Task-3/requirements.txt
 python Task-3/task3_eda.py
 ```
+
+## Task 4 - Data Visualization
+
+- [Task-4/README.md](Task-4/README.md)
+- [Task-4/task4_visualization.py](Task-4/task4_visualization.py)
+- [Task-4/requirements.txt](Task-4/requirements.txt)
+- [Task-4/data/cleaned_teen_mental_health_dataset.csv](Task-4/data/cleaned_teen_mental_health_dataset.csv)
+- [Task-4/outputs/task4_visual_report.md](Task-4/outputs/task4_visual_report.md)
+- [Task-4/outputs/gender_distribution.png](Task-4/outputs/gender_distribution.png)
+- [Task-4/outputs/platform_usage_distribution.png](Task-4/outputs/platform_usage_distribution.png)
+- [Task-4/outputs/social_interaction_level.png](Task-4/outputs/social_interaction_level.png)
+- [Task-4/outputs/correlation_heatmap.png](Task-4/outputs/correlation_heatmap.png)
+- [Task-4/outputs/social_media_vs_sleep.png](Task-4/outputs/social_media_vs_sleep.png)
+
+## What Task 4 does
+
+- Creates charts and graphs
+- Chooses appropriate visual types
+- Highlights key insights
+- Saves chart images and a visual report
+
+## Run Task 4
+
+```bash
+pip install -r Task-4/requirements.txt
+python Task-4/task4_visualization.py
+```
