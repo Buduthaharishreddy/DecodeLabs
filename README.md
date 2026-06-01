@@ -4,8 +4,6 @@ A reproducible pipeline to explore teen mental health survey data: cleaning, exp
 
 ## About
 
-No description, website, or topics provided.
-
 This project explores a teen mental health dataset with the goal of demonstrating
 data cleaning, exploratory analysis, visualization, and a simple predictive
 model. The repository is organized into separate Task folders (Task-1..Task-5)
