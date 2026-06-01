@@ -1,6 +1,47 @@
 # DecodeLabs Internship Projects
 
-This repository contains the internship tasks for the teen mental health dataset project.
+A reproducible pipeline to explore teen mental health survey data: cleaning, exploratory analysis, visualization, and a simple predictive model.
+
+## About
+
+No description, website, or topics provided.
+
+This project explores a teen mental health dataset with the goal of demonstrating
+data cleaning, exploratory analysis, visualization, and a simple predictive
+model. The repository is organized into separate Task folders (Task-1..Task-5)
+so each step of the workflow is reproducible and easy to review.
+
+Key points:
+
+- Dataset: Teen_Mental_Health_Dataset.csv (1200 rows, 13 columns)
+- Focus: cleaning, EDA, visualization, simple ML model
+- Outputs: CSV reports, PNG charts, PDF and markdown reports, and a saved model
+
+If you want to run everything locally, follow the `README.md` in each Task folder.
+
+## Task 1 - Data Collection and Dataset Understanding
+[](https://github.com/Buduthaharishreddy/DecodeLabs#task-1---data-collection-and-dataset-understanding)
+
+- [Task-1/README.md](Task-1/README.md)
+- [Task-1/task1_simple.py](Task-1/task1_simple.py)
+- [Task-1/generate_report.py](Task-1/generate_report.py)
+- [Task-1/requirements.txt](Task-1/requirements.txt)
+
+## What Task 1 does
+
+- Loads the dataset
+- Shows column names and data types
+- Checks dataset size
+- Checks missing values
+- Summarizes categorical and numeric columns
+
+## Run Task 1
+
+```bash
+pip install -r Task-1/requirements.txt
+python Task-1/task1_simple.py
+python Task-1/generate_report.py
+```
 
 ## Task 2 - Data Cleaning & Preprocessing
 
