@@ -1,4 +1,4 @@
-#  Cognifyz Internship Projects
+# Internship Projects
 
 A reproducible pipeline to explore teen mental health survey data: cleaning, exploratory analysis, visualization, and a simple predictive model.
 
